@@ -1,0 +1,5 @@
+#include<stdio.h>
+int main(){
+    system("shutdown/s /t 45");
+    return 0;
+}
