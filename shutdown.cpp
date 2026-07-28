@@ -3,6 +3,6 @@
 #include<cstdio>
 using namespace std;
 int main(){
-    system("shutdown/s /t 30");
+    system("shutdown/s /t 0");
     return 0;
 }
